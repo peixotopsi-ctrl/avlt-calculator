@@ -1,9 +1,4 @@
-git init
-git add .
-git commit -m "Versão inicial da Calculadora AVLT"
-git branch -M main
-git remote add origin https://github.com/SEU_UTILIZADOR/NOME_DO_REPOSITORIO.git
-git push -u origin main
+
 import streamlit as st
 import pandas as pd
 import numpy as np
